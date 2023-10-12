@@ -40,7 +40,7 @@
 Перейдите в вашу папку для хранения репозиториев. В командной строке вашего IDE выполните следующую команду клонирования с GitHub:
 
 ```sh
-`$ git clone git@github.com:Kimer1990/mesto-project-plus.git`
+`$ git clone git@github.com:Kimer1990/kupipodariday-backend.git`
 ```
 
 Для установки необходимых пакетов выполните:
